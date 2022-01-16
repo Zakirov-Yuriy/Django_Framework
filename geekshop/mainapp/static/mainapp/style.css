@@ -1,0 +1,27 @@
+.menu a {
+	color: #8c8c8c;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: right;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 13px;
+}
+
+.search {
+	display: block;
+	width: 23px;
+	height: 23px;
+	background-image: url(img/search.png);
+	position: absolute;
+	top: 63px;
+	left: 1176px;
+}
+
+.hero-white {
+	background-color: #fff;
+	height: 119px;
+	padding-left: 98px;
+	padding-right: 211px;
+	position: relative;
+}
